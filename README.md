@@ -1,5 +1,5 @@
 # Binary Calculator 
-##### Project on data structures
+##### Project on data structures sem 3 COLLEGE OF ENGINEERING PUNE.
 Implemented Command line Arbitrary precision calculator using C Programming language.
 
 It tries to implement some functionalities from unix based command 'bc'.
